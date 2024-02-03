@@ -42,6 +42,15 @@
       background-repeat: no-repeat;
       background-size: contain;
     }
+.icon{
+      width: 50%;
+/*     height: 25px;
+      margin: 15px 0 0 0;
+      background-image: url(../images/pattern-divider-desktop.svg);
+      background-repeat: no-repeat;
+      background-size: contain; */
+      
+    }
     .btn {
       width: 75px;
       height: 75px;
